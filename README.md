@@ -1,1 +1,0 @@
-# developerrsquared.github.io
