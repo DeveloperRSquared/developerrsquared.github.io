@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "com.developerrsquared.alankaars",
-            "paths": ["/projects/alankaars/apps/*"]
+            "paths": ["/projects/alankaars/app/*"]
             }
         ]
     }
