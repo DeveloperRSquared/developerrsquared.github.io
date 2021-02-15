@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+   "target": {
+       "namespace": "android_app",
+       "package_name": "com.alankaars",
+       "Sha256_cert_fingerprints":  ["55:D8:A1:9B:1C:BA:2C:91:4F:49:3A:82:78:68:DA:50:A2:27:68:81:B3:BF:85:B5:42:D2:D5:8C:77:6E:E2:23"]
+  }
+}]
