@@ -1,9 +1,14 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
-            "appID": "RRHAU9AALU.com.developerrsquared.alankaars",
-            "paths": ["/projects/alankaars/app/*"]
+        "details": [
+            {
+                "appID": "RRHAU9AALU.com.developerrsquared.alankaars",
+                "paths": ["/projects/alankaars/app/*"]
+            },
+            {
+                "appID": "RRHAU9AALU.com.developerrsquared.bhajanlyrics",
+                "paths": ["/projects/bhajan-lyrics/app/*"]
             }
         ]
     }
