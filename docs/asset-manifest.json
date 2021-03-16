@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.c123f3f4.chunk.css",
-    "main.js": "/static/js/main.f0915a71.chunk.js",
-    "main.js.map": "/static/js/main.f0915a71.chunk.js.map",
+    "main.css": "/static/css/main.0b3fb29a.chunk.css",
+    "main.js": "/static/js/main.d6cd9dca.chunk.js",
+    "main.js.map": "/static/js/main.d6cd9dca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a92b5106.js",
     "runtime-main.js.map": "/static/js/runtime-main.a92b5106.js.map",
     "static/js/2.fa7322b5.chunk.js": "/static/js/2.fa7322b5.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.829da677.chunk.js": "/static/js/3.829da677.chunk.js",
     "static/js/3.829da677.chunk.js.map": "/static/js/3.829da677.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c123f3f4.chunk.css.map": "/static/css/main.c123f3f4.chunk.css.map",
+    "static/css/main.0b3fb29a.chunk.css.map": "/static/css/main.0b3fb29a.chunk.css.map",
     "static/js/2.fa7322b5.chunk.js.LICENSE.txt": "/static/js/2.fa7322b5.chunk.js.LICENSE.txt",
     "static/media/Alankaars.a56d59c1.png": "/static/media/Alankaars.a56d59c1.png",
     "static/media/BhajanLyrics.1de9e43c.png": "/static/media/BhajanLyrics.1de9e43c.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a92b5106.js",
     "static/js/2.fa7322b5.chunk.js",
-    "static/css/main.c123f3f4.chunk.css",
-    "static/js/main.f0915a71.chunk.js"
+    "static/css/main.0b3fb29a.chunk.css",
+    "static/js/main.d6cd9dca.chunk.js"
   ]
 }
